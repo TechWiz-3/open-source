@@ -6,6 +6,7 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [Pycord](https://github.com/Pycord-Development/pycord/pull/1146) - a maintained fork of discord.py, is a python wrapper for the Discord API  
 - [pythonfetch](https://github.com/beucismis/pythonfetch/pull/5) - Python and system information cli tool 
 - [bfetch](https://github.com/NNBnh/bfetch/pull/7#issuecomment-1171510161) - Dynamic fetch displayer that SuperB
+- [awesome-fetch](https://github.com/beucismis/awesome-fetch/pull/30#event-6923011307) - Command-line fetch tools for system information
 
 ## Forks (w/o PRs)
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS)  
