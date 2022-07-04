@@ -23,7 +23,7 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [treefetch-2.0](https://github.com/TechWiz-3/treefetch-2.0) - Tree like fetch tool (inspired by the original treefetch) 
 
 ## Issues
-A selected list of issues I'm prooud of.  
+A selected list of issues I'm proud of.  
 
 - [pypost](https://github.com/kgdn/pypost/issues/2#issuecomment-1172889738) - Simple Python script used to create blog posts for https://kgdn.github.io.
 - [simplepyscripts](https://github.com/gil9red/SimplePyScripts/issues/15) - Collection of various python script's. 
