@@ -7,6 +7,7 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [pythonfetch](https://github.com/beucismis/pythonfetch/pull/5) - Python and system information cli tool 
 - [bfetch](https://github.com/NNBnh/bfetch/pull/7#issuecomment-1171510161) - Dynamic fetch displayer that SuperB
 - [awesome-fetch](https://github.com/beucismis/awesome-fetch/pull/30#event-6923011307) - Command-line fetch tools for system information
+- [python-distro](https://github.com/python-distro/distro/pull/343#pullrequestreview-1043990401) - A much more elaborate replacement for removed Python's `platform.linux_distribution()` method
 
 ## Forks (w/o PRs)
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS)  
@@ -27,3 +28,7 @@ A selected list of issues I'm proud of.
 
 - [pypost](https://github.com/kgdn/pypost/issues/2#issuecomment-1172889738) - Simple Python script used to create blog posts for https://kgdn.github.io.
 - [simplepyscripts](https://github.com/gil9red/SimplePyScripts/issues/15) - Collection of various python script's. 
+
+---
+### 🎉 Commit labels
+If you're interested in the commit labels used in this repo, check out the [git commit emoji](https://github.com/TechWiz-3/git-commit-emojis) project
