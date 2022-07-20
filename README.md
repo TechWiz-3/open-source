@@ -14,7 +14,8 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 
 ## Automation tools
 - [git-commit-emojis](https://github.com/TechWiz-3/git-commit-emojis) - Label and emojify git commits with an intuitive CLI tool  
-- [TechWiz-3/automation](https://github.com/TechWiz-3/automation) - a repo filled with small automation projects for personal use and learning  
+- [automation](https://github.com/TechWiz-3/automation) - a repo filled with small automation projects for personal use and learning  
+- [pygnore-cli](https://github.com/TechWiz-3/pygnore-cli) - Instantly create a .gitignore file using the python template, offline
 
 ## Discord bots
 - [New Year Resolution Bot](https://github.com/TechWiz-3/newYearResolutionBot) - a hosted discord bot for listing, tracking and reminding users of their goals  
