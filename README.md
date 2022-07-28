@@ -26,7 +26,7 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [treefetch-2.0](https://github.com/TechWiz-3/treefetch-2.0) - Tree like fetch tool (inspired by the original treefetch) 
 
 ## Examples/tutorials
-[python-gh-action](https://github.com/TechWiz-3/python-gh-action) - python github action demonstration
+- [python-gh-action](https://github.com/TechWiz-3/python-gh-action) - python github action demonstration
 
 ## Issues
 A selected list of issues I'm proud of.  
