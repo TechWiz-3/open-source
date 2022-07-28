@@ -16,6 +16,7 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [git-commit-emojis](https://github.com/TechWiz-3/git-commit-emojis) - Label and emojify git commits with an intuitive CLI tool  
 - [automation](https://github.com/TechWiz-3/automation) - a repo filled with small automation projects for personal use and learning  
 - [pygnore-cli](https://github.com/TechWiz-3/pygnore-cli) - Instantly create a .gitignore file using the python template, offline
+- [linksafe](https://github.com/TechWiz-3/linksafe) - Ensure links in your project are working while keeping you in control   
 
 ## Discord bots
 - [New Year Resolution Bot](https://github.com/TechWiz-3/newYearResolutionBot) - a hosted discord bot for listing, tracking and reminding users of their goals  
@@ -23,6 +24,9 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 ## Fetch scripts
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS)  
 - [treefetch-2.0](https://github.com/TechWiz-3/treefetch-2.0) - Tree like fetch tool (inspired by the original treefetch) 
+
+## Examples/tutorials
+[python-gh-action](https://github.com/TechWiz-3/python-gh-action) - python github action demonstration
 
 ## Issues
 A selected list of issues I'm proud of.  
