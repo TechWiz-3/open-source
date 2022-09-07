@@ -9,7 +9,7 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [awesome-fetch](https://github.com/beucismis/awesome-fetch/pull/30#event-6923011307) - Command-line fetch tools for system information
 - [python-distro](https://github.com/python-distro/distro/pull/343#pullrequestreview-1043990401) - A much more elaborate replacement for removed Python's `platform.linux_distribution()` method
 - [awesome-fetch (2)](https://github.com/beucismis/awesome-fetch/pull/34#event-7107760142) - Command-line fetch tools for system information
-- [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.  
+- [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science/pull/37) - Probably the best curated list of data science software in Python.  
 
 ## Forks (w/o PRs)
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS)  
