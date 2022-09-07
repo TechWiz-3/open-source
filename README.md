@@ -9,6 +9,7 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [awesome-fetch](https://github.com/beucismis/awesome-fetch/pull/30#event-6923011307) - Command-line fetch tools for system information
 - [python-distro](https://github.com/python-distro/distro/pull/343#pullrequestreview-1043990401) - A much more elaborate replacement for removed Python's `platform.linux_distribution()` method
 - [awesome-fetch (2)](https://github.com/beucismis/awesome-fetch/pull/34#event-7107760142) - Command-line fetch tools for system information
+- [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.  
 
 ## Forks (w/o PRs)
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS)  
@@ -23,11 +24,16 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [New Year Resolution Bot](https://github.com/TechWiz-3/newYearResolutionBot) - a hosted discord bot for listing, tracking and reminding users of their goals  
 
 ## Fetch scripts
-- [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS)  
+- [mfetch-macos](https://github.com/techwiz-3/mfetch-macos) - minimalist fetch (forked and modified for mac os)  
 - [treefetch-2.0](https://github.com/TechWiz-3/treefetch-2.0) - Tree like fetch tool (inspired by the original treefetch) 
+- [docker-fetch](https://github.com/TechWiz-3/docker-fetch) - View simple docker info graphically  
 
 ## Examples/tutorials
+- [ospf-notes](https://github.com/TechWiz-3/ospf-notes) - Notes on OSPF protocol from LinkedIn Learning course by Jarrel Rivera  
 - [python-gh-action](https://github.com/TechWiz-3/python-gh-action) - python github action demonstration
+- [test-gh-action](https://github.com/TechWiz-3/test-gh-action) - test gh action w/bash, docker and non-docker branches
+- [linux-ricing](https://github.com/TechWiz-3/linux-ricing) - Resources for beginners learning linux ricing (i.e me)  
+- [pypi-cli-tool](https://github.com/TechWiz-3/pypi-cli-tool) - Testing putting cli tools on pypi  
 
 ## Issues
 A selected list of issues I'm proud of.  
