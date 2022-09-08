@@ -10,15 +10,17 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [python-distro](https://github.com/python-distro/distro/pull/343#pullrequestreview-1043990401) - A much more elaborate replacement for removed Python's `platform.linux_distribution()` method
 - [awesome-fetch (2)](https://github.com/beucismis/awesome-fetch/pull/34#event-7107760142) - Command-line fetch tools for system information
 - [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science/pull/37) - Probably the best curated list of data science software in Python.  
+- [fetches](https://github.com/TorchedSammy/fetches/pull/9) - A fetch script compilation  
 
 ## Forks (w/o PRs)
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS)  
 
-## Automation tools
+## Automation tools & CLI apps
 - [git-commit-emojis](https://github.com/TechWiz-3/git-commit-emojis) - Label and emojify git commits with an intuitive CLI tool  
 - [automation](https://github.com/TechWiz-3/automation) - a repo filled with small automation projects for personal use and learning  
 - [pygnore-cli](https://github.com/TechWiz-3/pygnore-cli) - Instantly create a .gitignore file using the python template, offline
 - [linksafe](https://github.com/TechWiz-3/linksafe) - Ensure links in your project are working while keeping you in control   
+- [happy-jar-cli](https://github.com/TechWiz-3/happy-jar-cli) - Keep a happy jar from your terminal  
 
 ## Discord bots
 - [New Year Resolution Bot](https://github.com/TechWiz-3/newYearResolutionBot) - a hosted discord bot for listing, tracking and reminding users of their goals  
