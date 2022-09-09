@@ -11,6 +11,7 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [awesome-fetch (2)](https://github.com/beucismis/awesome-fetch/pull/34#event-7107760142) - Command-line fetch tools for system information
 - [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science/pull/37) - Probably the best curated list of data science software in Python.  
 - [fetches](https://github.com/TorchedSammy/fetches/pull/9) - A fetch script compilation  
+- [terminal-explorer](https://github.com/NNBnh/terminal-explorer/pull/2) - 📋 Bring file manager's copy/paste to the CLI  
 
 ## Forks (w/o PRs)
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS)  
