@@ -12,6 +12,7 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science/pull/37) - Probably the best curated list of data science software in Python.  
 - [fetches](https://github.com/TorchedSammy/fetches/pull/9) - A fetch script compilation  
 - [terminal-explorer](https://github.com/NNBnh/terminal-explorer/pull/2) - 📋 Bring file manager's copy/paste to the CLI  
+- [awesome-oneliners](https://github.com/cristaloleg/awesome-oneliners/pull/6#event-7355312873) - Copy-paste friendly Bash one liners  
 
 ## Forks (w/o PRs)
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS)  
