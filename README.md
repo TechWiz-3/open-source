@@ -35,6 +35,7 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 ## Examples/tutorials
 - [ospf-notes](https://github.com/TechWiz-3/ospf-notes) - Notes on OSPF protocol from LinkedIn Learning course by Jarrel Rivera  
 - [python-gh-action](https://github.com/TechWiz-3/python-gh-action) - python github action demonstration
+- [git-cheatsheet](https://github.com/TechWiz-3/git-cheatsheet) - My personal git reference (with a nifty CLI viewer)  
 - [test-gh-action](https://github.com/TechWiz-3/test-gh-action) - test gh action w/bash, docker and non-docker branches
 - [linux-ricing](https://github.com/TechWiz-3/linux-ricing) - Resources for beginners learning linux ricing (i.e me)  
 - [pypi-cli-tool](https://github.com/TechWiz-3/pypi-cli-tool) - Testing putting cli tools on pypi  
