@@ -23,6 +23,8 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [pygnore-cli](https://github.com/TechWiz-3/pygnore-cli) - Instantly create a .gitignore file using the python template, offline
 - [linksafe](https://github.com/TechWiz-3/linksafe) - Ensure links in your project are working while keeping you in control   
 - [happy-jar-cli](https://github.com/TechWiz-3/happy-jar-cli) - Keep a happy jar from your terminal  
+- [who-unfollowed-me](https://github.com/TechWiz-3/who-unfollowed-me) - Python CLI tool that shows you who has unfollowed you on GitHub  
+- [git-cheatsheet (CLI tool)](https://github.com/TechWiz-3/git-cheatsheet) - My personal git reference (with a nifty CLI viewer)  
 
 ## Discord bots
 - [New Year Resolution Bot](https://github.com/TechWiz-3/newYearResolutionBot) - a hosted discord bot for listing, tracking and reminding users of their goals  
