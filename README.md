@@ -13,6 +13,9 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [fetches](https://github.com/TorchedSammy/fetches/pull/9) - A fetch script compilation  
 - [terminal-explorer](https://github.com/NNBnh/terminal-explorer/pull/2) - 📋 Bring file manager's copy/paste to the CLI  
 - [awesome-oneliners](https://github.com/cristaloleg/awesome-oneliners/pull/6#event-7355312873) - Copy-paste friendly Bash one liners  
+- [textualize.io](https://github.com/Textualize/textualize.io/pull/106) - Textualize website  (Rich gallery)  
+- [redive](https://github.com/neelkarma/redive/pull/1) - Trace URL redirections in the terminal.  
+- [awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022/pull/478) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources   
 
 ## Forks (w/o PRs)
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS)  
@@ -25,6 +28,7 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [happy-jar-cli](https://github.com/TechWiz-3/happy-jar-cli) - Keep a happy jar from your terminal  
 - [who-unfollowed-me](https://github.com/TechWiz-3/who-unfollowed-me) - Python CLI tool that shows you who has unfollowed you on GitHub  
 - [git-cheatsheet (CLI tool)](https://github.com/TechWiz-3/git-cheatsheet) - My personal git reference (with a nifty CLI viewer)  
+- [scout](https://github.com/TechWiz-3/scout) - Find hacktoberfest repos from your terminal by getting repos by the range of stars they have.  
 
 ## Discord bots
 - [New Year Resolution Bot](https://github.com/TechWiz-3/newYearResolutionBot) - a hosted discord bot for listing, tracking and reminding users of their goals  
