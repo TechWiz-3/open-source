@@ -16,6 +16,7 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [textualize.io](https://github.com/Textualize/textualize.io/pull/106) - Textualize website  (Rich gallery)  
 - [redive](https://github.com/neelkarma/redive/pull/1) - Trace URL redirections in the terminal.  
 - [awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022/pull/478) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources   
+- [awesome-hacktoberfest](https://github.com/mattjegan/awesome-hacktoberfest/pull/119) - An Awesome List of Awesome Hacktoberfest-Related Projects  
 
 ## Forks (w/o PRs)
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS)  
