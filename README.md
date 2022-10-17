@@ -31,6 +31,10 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [git-cheatsheet (CLI tool)](https://github.com/TechWiz-3/git-cheatsheet) - My personal git reference (with a nifty CLI viewer)  
 - [scout](https://github.com/TechWiz-3/scout) - Find hacktoberfest repos from your terminal by getting repos by the range of stars they have.  
 
+## Packages
+- [wise-python-utils](https://github.com/TechWiz-3/python-utils) - Random python utils I'm making for my own use. [Unmaintained and outdated]  
+- [bubblewrap](https://github.com/TechWiz-3/bubblewrap) - A Python library that makes beautiful text bubbles in your terminal using NerdFont icons  
+
 ## Discord bots
 - [New Year Resolution Bot](https://github.com/TechWiz-3/newYearResolutionBot) - a hosted discord bot for listing, tracking and reminding users of their goals  
 
