@@ -17,6 +17,7 @@ Inspired by [msaaddev](https://github.com/msaaddev/open-source)
 - [redive](https://github.com/neelkarma/redive/pull/1) - Trace URL redirections in the terminal.  
 - [awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022/pull/478) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources   
 - [awesome-hacktoberfest](https://github.com/mattjegan/awesome-hacktoberfest/pull/119) - An Awesome List of Awesome Hacktoberfest-Related Projects  
+- [SimplePyScript](https://github.com/gil9red/SimplePyScripts/pull/16#event-7669975048) - Collection of various python script's.  
 
 ## Forks (w/o PRs)
 - [mfetch-macos](https://github.com/TechWiz-3/mfetch-macos) - Minimalist fetch (forked and modified for mac OS)  
